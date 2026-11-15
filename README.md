@@ -25,7 +25,7 @@ All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://g
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-## What this repository covers
+## What this repository covers.
 
 Sei Wallet is a non-custodial desktop wallet for Sei, built by Sei Wallet Labs Inc and distributed for Windows, macOS and Linux. This repository holds the setup and migration guides: installing the app, checking a download before you run it, creating or restoring an account, understanding the two address forms, adding Sei to a wallet you already use, and moving a balance out of Keplr, Leap, Compass, Trust Wallet or an exchange.
 
